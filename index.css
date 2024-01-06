@@ -1,0 +1,73 @@
+body{
+    background-color:rgb(246 208 80);
+}
+
+
+.main_card{
+    background-color: rgb(255, 255, 255);
+    border: black solid;
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 5px 5px black;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+
+
+.image2{
+    padding: -1%;
+    width: 27px;
+    margin-left: 10px;
+}
+.image1{
+    width: 275px;
+    margin: 4.5%;
+    border-radius: 10px;
+}
+
+
+.text1{
+  
+    padding: 2%;
+    background-color: rgb(243 209 75);
+    display: inline;
+    margin: 5%;
+    font-size: small;
+    border-radius: 3px;
+    font-family: 'Figtree', sans-serif;
+}
+
+
+.text2{
+    padding: 5%;
+    font-size: smaller;
+    font-family: 'Figtree', sans-serif;
+}
+
+.text3{
+    font-size: large;
+    margin-left: 15px;
+    font-family: 'Figtree', sans-serif;
+}
+
+.text4{
+    text-align: left;
+    padding: 5%;
+    font-size: smaller;
+    color: gray;
+    font-family: 'Figtree', sans-serif;
+}
+
+.text5{
+    margin-left: 50px;
+    margin-top: -25PX;
+    font-size: smaller;
+    font-family: 'Figtree', sans-serif;
+}
+
+
