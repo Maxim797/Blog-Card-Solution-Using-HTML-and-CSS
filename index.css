@@ -1,6 +1,10 @@
 body{
     background-color:rgb(246 208 80);
+    display: flex;
+    margin: 10%;
+    justify-content: center;
 }
+
 
 
 .main_card{
@@ -12,11 +16,7 @@ body{
     box-shadow: 5px 5px black;
 }
 
-.main{
-    display: flex;
-    justify-content: center;
-    margin: 10%;
-}
+
 
 
 .image2{
